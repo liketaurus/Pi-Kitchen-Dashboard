@@ -71,6 +71,7 @@ This project is not distributed with its dependencies; however, [Bower](http://b
 5. `bower install` - Install the project's dependencies
 
 ### <a name="settingYourLocation"></a>Setting your location
+WOEID for **Poltava, Ukraine** is **931366**
 
 Open `js/weather.js` and find the following section at the top:
 
